@@ -24,3 +24,6 @@ Initial project structure and website files created.
 ## Live Website Screenshot
 
 ![AWS Static Website](website-live.png)
+## Live Website
+
+[View Live AWS Website](http://sola-aws-static-website-2026.s3-website.us-east-2.amazonaws.com)
