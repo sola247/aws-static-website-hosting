@@ -21,3 +21,6 @@ The project is part of my cloud infrastructure learning journey focused on AWS a
 ## Current Status
 
 Initial project structure and website files created.
+## Live Website Screenshot
+
+![AWS Static Website](website-live.png)
