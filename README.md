@@ -2,9 +2,7 @@
 
 ## Overview
 
-This project demonstrates static website hosting on AWS using Amazon S3 and Amazon CloudFront.
-
-The project is part of my cloud infrastructure learning journey focused on AWS architecture, scalable web delivery, storage services, and CDN integration.
+This project demonstrates static website hosting on AWS using Amazon S3 and Amazon CloudFront, showcasing cloud storage, content delivery, scalable web hosting, and infrastructure deployment practices.
 
 ## AWS Services Used
 
